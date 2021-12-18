@@ -1,4 +1,4 @@
-Say hello to ToanTim 👋👋👋
+Hi there 👋👋👋
 - Well, turn on laptop, listen to piano music and enjoy a day with coding
 
 <!-- - 👋 Hi, I’m ToanTim
